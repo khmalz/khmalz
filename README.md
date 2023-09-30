@@ -9,7 +9,7 @@
 
 - 🏫 Studying at **SMKN 46 Jakarta**
 
-- 🌱 Learning **Next JS, Laravel**
+- 🔎 Learning **Next JS, Laravel**
 
 - 📫 How to reach me **khairulakmal1710@gmail.com**
   
