@@ -4,7 +4,7 @@
 
 
 <h1>Hi 👋, I'm Khairul Akmal</h1>
-<h2>You can call me Akmal (🤝)</h2>
+<h2>You can call me Akmal (😊🤝😁)</h2>
 <p>Full Stack Developer yang berdedikasi membuat web luar biasa, dari frontend hingga backend, yang selalu berusaha menjadi versi terbaik diri sendiri dari hari ke hari</p>
 
 - 🏫 Studying at **SMKN 46 Jakarta**
