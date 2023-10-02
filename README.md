@@ -11,7 +11,7 @@
 
 - 🔎 Learning **Next JS, Laravel**
 
-- 📫 How to reach me **khairulakmal1710@gmail.com**
+- 📫 How to reach me **akmalrma1710@gmail.com**
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
