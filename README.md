@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akmalrma1710@gmail.com**
 
-- 📋 [My Portfolio](https://www.linkedin.com/in/khairul-akmal-3728a9267)
+- 📋 [My Portfolio](https://khmalz-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
