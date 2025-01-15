@@ -45,6 +45,8 @@
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khmalz&show_icons=true&locale=en&layout=compact" alt="khmalz" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khmalz&show_icons=true&locale=en" alt="khmalz" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=khmalz" alt="khmalz" /></p>
+<div align=center>
+   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=khmalz&show_icons=true&locale=en&layout=compact" alt="khmalz top langs" />
+   <img height=180 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khmalz&count_private=true" alt="khmalz streak stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=khmalz&show_icons=true&locale=en" alt="khmalz github stats" />
+</div>
