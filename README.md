@@ -2,7 +2,7 @@
 <img align="center" width="1000" height="350" src="https://github.com/khmalz/khmalz/blob/main/hello.gif" />
 </div>
 
-<h1>Hi 👋, I'm Khairul Akmal</h1>
+<h1>Hello 👋, I'm Khairul Akmal</h1>
 <h2>You can call me Akmal (😊🤝😁)</h2>
 <p>Web Developer yang berdedikasi membuat web luar biasa, dari frontend hingga backend, yang selalu berusaha menjadi versi terbaik diri sendiri dari hari ke hari.</p>
 <p>Sedang belajar Mobile Developer lewat Flutter</p>
