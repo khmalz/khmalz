@@ -9,7 +9,7 @@
 
 -  🏫 Studying at **Universitas Negeri Jakarta**
 
--  🔎 Learning **Next JS, Laravel, Flutter**
+-  🔎 Learning **Nextjs, Laravel, Flutter, and now Vue**
 
 -  📫 How to reach me **akmalrma1710@gmail.com**
 
