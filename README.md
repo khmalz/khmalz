@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm Khairul Akmal</h1>
 <h2>You can call me Akmal (😊🤝😁)</h2>
-<p>A dedicated Web Developer who builds responsive and efficient websites, from frontend to backend, constantly striving to become the best version of myself every day.</p>
+<p>A dedicated Web Developer who builds responsive and efficient websites/apps, from frontend to backend then mobile, constantly striving to become the best version of myself every day.</p>
 
 -  🏫 Studying at **State University of Jakarta**
 
