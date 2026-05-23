@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p>
-<a href="mailto:akmalrma1710@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
-<a href="https://github.com/khmalz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://instagram.com/smoizymal_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="mailto:akmalrma1710@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://github.com/khmalz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://instagram.com/smoizymal_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/khrulakmal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -42,7 +42,11 @@
 </p>
 
 <div align=center>
-   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=khmalz&show_icons=true&locale=en&layout=compact" alt="khmalz top langs" />
    <img height=180 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khmalz&count_private=true" alt="khmalz streak stats"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=khmalz&show_icons=true&locale=en" alt="khmalz github stats" />
+</div>
+
+<h3 align="left">Activity</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khmalz/readme-profile/main/metrics.plugin.isocalendar.svg" alt="khmalz isocalendar" />
 </div>
