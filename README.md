@@ -8,7 +8,9 @@
 
 -  🏫 Studying at **State University of Jakarta**
 
--  🔎 Learning **Nextjs, Flutter, and now Vue**
+-  🔎 Learning **Nuxtjs, and Flutter**
+
+-  Currently working as a **Web Developer Intern**  at the Pusat Informasi dan Komunikasi UNJ
 
 <h3 align="left">Must-See</h3>
 <p>
@@ -26,26 +28,16 @@
 <h3 align="left">Tools</h3>
 
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=fff" />
   <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff" />
+  <img alt="Nuxtjs" src="https://img.shields.io/badge/-Nuxt-00C58E?style=for-the-badge&logo=nuxt&logoColor=fff" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-  <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=Firebase&logoColor=black" />
 </p>
 
 <div align=center>
    <img height=180 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=khmalz&count_private=true" alt="khmalz streak stats"/>
 </div>
-
-<h3 align="left">Activity</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/khmalz/khmalz/main/metrics.plugin.isocalendar.svg" alt="khmalz isocalendar" />
