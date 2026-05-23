@@ -48,5 +48,5 @@
 <h3 align="left">Activity</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khmalz/readme-profile/main/metrics.plugin.isocalendar.svg" alt="khmalz isocalendar" />
+  <img src="https://raw.githubusercontent.com/khmalz/khmalz/main/metrics.plugin.isocalendar.svg" alt="khmalz isocalendar" />
 </div>
